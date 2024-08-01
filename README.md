@@ -4,7 +4,7 @@ My name is Arzetz annd ima tryin' to be a white hat. Sometimes i start different
 - 🔭 I’m currently working on [ML_BRUTE_DICT](https://github.com/arzetz/VKSimpleParser/")
 
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzetz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs i learn](https://github-readme-stats.vercel.app/api/top-langs/?username=arzetz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **arzetz/arzetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
