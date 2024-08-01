@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there, I am 𝒜ℛ𝓩𝓔𝔗𝓩 👋 </h1>
 My name is Arzetz annd ima tryin' to be a white hat. Sometimes i start different projects to test myself or to learn smth new and also my point is to make this world simplier. <br><br>
 - 🔭 I’m currently working on <a href = "https://github.com/arzetz/VKSimpleParser/">ML_BRUTE_DICT</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzetz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **arzetz/arzetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
