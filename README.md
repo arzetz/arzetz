@@ -2,7 +2,8 @@
 # Hi there, I am 𝒜ℛ𝓩𝓔𝔗𝓩 👋
 ![trophy](https://github-profile-trophy.vercel.app/?username=arzetz&theme=radical&title=-Issues,-Followers,-Reviews)  
 ### My name is Arzetz annd ima tryin' to be a white hat. Sometimes i start different projects to test myself or to learn smth new and also my point is to make this world simplier. <br><br>
-### - 🔭 I’m currently working on [ML_BRUTE_DICT](https://github.com/arzetz/VKSimpleParser/) that is part of ![adasd](https://github.com/user-attachments/assets/0dd8ac30-4af1-46f7-97ec-495e6abb671d)
+### - 🔭 I’m currently working on [ML_BRUTE_DICT](https://github.com/arzetz/VKSimpleParser/) that is part of ![adasd](https://github.com/user-attachments/assets/0dd8ac30-4af1-46f7-97ec-495e6abb671d)![asaas](https://github.com/user-attachments/assets/a7420e88-5321-4d54-9cb7-2db01626e990)
+
 
 
 
